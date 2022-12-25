@@ -1,4 +1,4 @@
 - Hi, I’m ZeroTwoWeeb
-- I’m interested in Prorgamming/Raspberry Pi/Linux Stuff
+- I’m interested in Prorgamming/RPi/Linux Stuff
 - I’m currently learning Java, C, Python, Arduino C...
 - Reach me via Discord kob#2213
