@@ -1,4 +1,4 @@
 - Hi, I’m ZeroTwoWeeb
-- I’m interested in Prorgamming/RPi/Linux/MC Stuff
+- I’m interested in Programming/RPi/Linux/MC Stuff
 - I’m currently learning Java, C, Python, Arduino C, C++...
 - Reach me via Discord jakope
